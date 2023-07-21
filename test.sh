@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {1..10}
+for i in Hi hello
 do
-echo "$i Hello ...."
+echo "$i world .."
 done
